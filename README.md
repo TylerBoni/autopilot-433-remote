@@ -52,6 +52,22 @@ The system responds to four pre-programmed codes that control the autopilot:
 2. Install the ESP32 board support package
 3. Install the RC-Switch library
 4. Upload the code to your ESP32
+5. Open the serial monitor and follow instructions to send the code.
+
+## Remote stup
+
+### Enter Pairing mode
+
+1. Hold A+B
+2. Once light flashes, release B
+3. Press B three times
+4. Release A
+
+### Pair button
+1. Hold remote against TX antenna
+2. Hold the button you would like to program.
+3. The LED wil flash 3 times, do not let up. Once the LED starts flashing continuously, the programming is complete.
+4. Repeat for other buttons.
 
 ## Configuration
 
