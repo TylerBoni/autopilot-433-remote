@@ -6,10 +6,10 @@ The receiver is optional, but if you are building your own system you probably a
 
 ## Hardware Requirements
 
-- ESP32 development board
-- 433MHz receiver module 
-- 433MHz remote control (pre-programmed with specific codes)
-- SYN115/SYN480R modules compatible (others probably work)
+- [ESP32 development board](https://amzn.to/44mlPRU)
+- Wiring/Breadboard
+- [433MHz receiver/transmitter modules](https://amzn.to/4nMU6S4)
+- [433MHz remote control](https://amzn.to/4kq2HXL)
 
 ## Wiring Instructions
 
@@ -33,7 +33,7 @@ DATA            | GPIO 4
 
 ### Antennas
 
-If you are having issues with the remote learning, I highly reccommend an antenna on the TX and pressing the antenna to the back of the remote. This is the only wy I was able to make the remote learn the codes as the signal fro mthe tx is too weak.
+If you are having issues with the remote learning, I highly reccommend an antenna (wire curled in circles works fine) on the TX and pressing the antenna to the back of the remote. This is the only wy I was able to make the remote learn the codes as the signal fro mthe tx is too weak.
 
 ## Remote Control Functions
 
