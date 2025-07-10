@@ -1,6 +1,6 @@
 # Nautinect Autopilot 433MHz Remote Control
 
-This project provides the code for an ESP32-based 433MHz remote control system for the Nautinect autopilot. It allows wireless control of the autopilot's heading adjustments using pre-programmed remote codes.
+This project provides a way to code generic 433mhz remotes with codes provided for the Nautinect autopilot. Really you could use this to program any codes that you want.
 
 The receiver is optional, but if you are building your own system you probably already have the receiver, and it makes testing the remote much easier.
 
