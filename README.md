@@ -33,7 +33,7 @@ DATA            | GPIO 4
 
 ### Antennas
 
-If you are having issues with the remote learning, I highly reccommend an antenna (wire curled in circles works fine) on the TX and pressing the antenna to the back of the remote. This is the only wy I was able to make the remote learn the codes as the signal fro mthe tx is too weak.
+If you are having issues with the remote learning, I highly reccommend an antenna (wire curled in circles works fine) on the TX and pressing the antenna to the back of the remote. This is the only way I was able to make the remote learn the codes as the signal from the tx is too weak.
 
 ## Remote Control Functions
 
